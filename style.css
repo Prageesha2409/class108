@@ -1,0 +1,39 @@
+body
+{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ background-color: cornflowerblue;  
+}
+
+.header_div
+{
+    background-color: cornflowerblue;
+  background: darkcyan;
+  color:  pink;
+}
+.header_div p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight:bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position:fixed;
+    color: darkorchid;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: blueviolet;
+    line-height:3;
+    text-align: center;
+    text-decoration: wavy;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
